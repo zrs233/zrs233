@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi Welcome to my world 👋
 
 <!--
-**zrs233/zrs233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ProgramTraveler/ProgramTraveler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,58 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📝
+- 🔊
+- ✍️
 -->
+
+---
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
+### About me
+
+- 🌱 A Computer Engineering graduate Student. & Open Source enthusiast.
+
+- 🔭 Postgraduate education (湖南某大学研究生学渣 穷究于理 成就于工).
+
+- ⚡ Algorithm enthusiast (动态规划的人生一定比贪心有趣).
+
+- ⭐ 算法酱油选手 [Leetcode](https://leetcode.cn/u/zxx233/)
+
+- ⭐ 没事发发博客 [CSDN](https://blog.csdn.net/nudt_zrs?type=blog)
+
+- ⭐ kaggle 插班生 [kaggle]()
+
+- 😄 理工酸菜鱼一条
+
+<!-- - [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode) -->
+
+---
+
+### How to reach me
+
+* 📫QQ : 850525447(小号，不时常关注消息)
+
+* 📫email : zhangrenshan_tx@126.com
+
+<!-- <img align="ceter" src="https://github-readme-stats.zohan.tech/api?username=ProgramTraveler&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Help's Github Stats" /> -->
+<!-- ![Help's GitHub](https://github-readme-stats.vercel.app/api?hide=issues,contribs&include_all_commits=true&username=ProgramTraveler) -->
+
+---
+
+###  技术栈 | Tech Stack
+
+* 💻&#160;![Python](https://img.shields.io/badge/-Pyhton-blue) ![Java](https://img.shields.io/badge/-Java-red) ![C++](https://img.shields.io/badge/-C%2B%2B-lightgrey) ![Linux](https://img.shields.io/badge/-Linux-orange)
+
+* 🛸&#160;![MySQL](https://img.shields.io/badge/-MySQL-green) ![Orange](https://img.shields.io/badge/-Oracle-orange)
+* 👨🏽‍💻&#160;![Git](https://img.shields.io/badge/-Git-black) ![GitHub](https://img.shields.io/badge/-GitHub-red) ![Markdown](https://img.shields.io/badge/-Markdown-blue)
+
+<p align="left">
+<img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ProgramTraveler&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+
+---
+
+### 主页访问量
+
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
